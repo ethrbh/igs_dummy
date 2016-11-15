@@ -1,0 +1,5 @@
+-sname igs
+-setcookie igs
+-heart
+-pa ./dev_patches/
+-mnesia dir '"./dbase/Mnesia/"'
